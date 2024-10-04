@@ -1,0 +1,6 @@
+login.php -> 47.sor -> action login-logic.php
+
+https://github.com/stefangabos/Zebra_Image/blob/master/Zebra_Image.php
+php.ini -> ;extension=gd -> extension=gd
+
+zoom image bug
